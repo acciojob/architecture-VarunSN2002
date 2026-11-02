@@ -4,6 +4,10 @@ body {
 	background-color: #cad4c7;
 }
 
+table {
+    table-layout: fixed;
+    width: 1000px;
+}
 
 .imageContainer {
 	width: 600px;
