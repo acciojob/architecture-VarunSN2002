@@ -30,12 +30,10 @@ img {
 }
 
 .odd {
-    width: 200px;
     padding: 5px;
 }
 
 .middle {
-    width: 600px;
     text-align: center;
 }
 
